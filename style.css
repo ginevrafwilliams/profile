@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600|Open+Sans:400,600&display=swap" rel="stylesheet");
+
+body {
+  background-color: rgb(240, 240, 240);
+  font-family: 'Open Sans', sans-serif;
+  color: #616E7E;
+  font-size: 14px;
+  line-height: 1.7;
+  font-weight: lighter;
+}
+
+h1, h2 {
+  color: rgb(10, 10, 10);
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(10, 10, 10);
+}
+
+.card-white {
+  width: 600px;
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  text-align: center;
+  margin: 20px auto;
+}
+
+.img-circle {
+  width: 130px;
+  border-radius: 50%;
+}
+
+#button {
+  padding: 10px 20px;
+  border-radius: 4px;
+  border: 1px solid #616E7E;
+}
+
+#button:hover {
+  border: 2px solid #616E7E;
+}
+
+#list-inline {
+  text-align: left;
+  padding-left: 210px;
+}
+
+.icon {
+  list-style: none;
+  padding-left: 0px;
+  display: block;
+  display: inline-block;
+}
+
+.margin-btm {
+  margin-bottom: 30px;
+}
+
+.fa-facebook-square {
+  font-size: 25px;
+  color: rgb(220, 220, 220);
+}
+
+.fa-instagram {
+  font-size: 25px;
+  color: rgb(220, 220, 220);
+}
+
+.fa-linkedin {
+  font-size: 25px;
+  color: rgb(220, 220, 220);
+}
+
+.fa-quidditch {
+  font-size: 25px;
+  color: rgb(220, 220, 220);
+}
+
+i:hover {
+  color: black !important;
+}
+
+.icon {
+  margin: 10px;
+}
+
+.list-online {
+  padding: 0px;
+}
+
+
+
